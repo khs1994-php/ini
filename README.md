@@ -2,7 +2,9 @@
 
 * [php/php-src master vs PHP 7.2.0](https://github.com/khs1994-php/ini/compare/master...pre)
 
-* [PHP 7.3.0RC1 vs PHP 7.2.0](https://github.com/khs1994-php/ini/compare/7.2.0...master)
+* [PHP 7.4.0 vs PHP 7.3.0](https://github.com/khs1994-php/ini/compare/7.3.0...7.4.0)
+
+* [PHP 7.3.0 vs PHP 7.2.0](https://github.com/khs1994-php/ini/compare/7.2.0...7.3.0)
 
 * [PHP 7.2.0 vs PHP 7.1.0 ](https://github.com/khs1994-php/ini/compare/7.1.0...7.2.0)
 
