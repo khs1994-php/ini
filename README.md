@@ -1,6 +1,6 @@
 # PHP ini Compare
 
-* [php/php-src master vs PHP 7.2.0](https://github.com/khs1994-php/ini/compare/master...pre)
+* [php/php-src master vs PHP 7.4.0](https://github.com/khs1994-php/ini/compare/master...pre)
 
 * [PHP 7.4.0 vs PHP 7.3.0](https://github.com/khs1994-php/ini/compare/7.3.0...7.4.0)
 
